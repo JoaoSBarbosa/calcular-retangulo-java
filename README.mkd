@@ -1,0 +1,31 @@
+   
+
+ ## Algoritmo em Java para calcular a área, o perímetro e a diagonal de um retângulo. ☕
+
+
+
+  
+
+- Fazer um programa para ler os valores da largura e altura de um retângulo.
+- Mostrar na tela o valor da:
+  - Área
+  - Perímetro
+  - Diagonal
+
+- Classe e seus componentes:
+
+  - **Rectangle**() {
+
+    - double width;
+    - double height;
+
+    ------
+
+    
+
+    - area(){}
+
+    - perimeter(){}
+    - diagonal(){}
+
+    }
